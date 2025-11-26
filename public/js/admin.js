@@ -1,1 +1,1 @@
-.
+// admin script
